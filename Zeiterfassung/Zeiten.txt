@@ -1,0 +1,8 @@
+Name;kommt oder geht;Datum;Uhrzeit
+Daniel;Kommt;04.06.2013;16:05:00
+Jeffrey;Kommt;04.06.2013;16:06:19
+Jeffrey;geht;04.06.2013;16:21:03
+Jeffrey;g;04.06.2013;16:22:12
+Karl;kommt;04.06.2013;16:22:48
+dummi;k;05.06.2013;10:25:32
+Jeffrey;kommt;05.06.2013;13:01:30
