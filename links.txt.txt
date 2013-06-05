@@ -1,0 +1,16 @@
+http://de.selfhtml.org/
+
+http://www.javaschubla.de/2007/java_als_erste_programmiersprache.html
+
+http://docs.oracle.com/javase/tutorial/essential/TOC.html
+
+http://www.javaschubla.de/2007/java_als_erste_programmiersprache.html
+
+https://github.com/
+
+/* Trakt.tv
+http://trakt.tv/downloads
+http://trakt.tv/api-docs/search-episodes
+https://github.com/JakeWharton/trakt-java
+
+*/
